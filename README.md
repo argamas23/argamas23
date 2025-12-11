@@ -16,6 +16,12 @@ I love building:
 
 ---
 
+## 📄 My Résumé  
+📘 **Download My Latest CV (PDF)**  
+👉 https://github.com/argamas23/argamas23/blob/main/SAMAGRA_BHARTI_2022115007_2025.pdf
+
+---
+
 ## 🔗 Connect with Me  
 <p>
 <a href="https://www.linkedin.com/in/samagra-bharti-bb02b5282"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
@@ -77,6 +83,22 @@ A historical research website deployed on AWS for the **Mapping the Himalayas** 
 - Built weighted ensemble pipelines in **Google Earth Engine**  
 - Applications in geospatial monitoring  
 🔗 https://github.com/argamas23/Megathon-24
+
+---
+
+### 🔹 **Pixel-Based Land Classification** — *Remote Sensing, ML, Google Earth Engine*  
+Machine learning pipeline on multi-sensor satellite imagery (Sentinel-2, LISS-4, Landsat-8):
+
+- Random Forest, SVM, CART, XGBoost  
+- Weighted ensemble framework  
+- Automated Google Earth Engine workflow  
+- Applications in geospatial monitoring  
+
+🔗 **Project Repo:**  
+https://github.com/argamas23/Megathon-24  
+
+📁 **Google Drive Code & Data:**  
+👉 https://drive.google.com/drive/folders/1-qF-klsefbefq0WDw6bdXZcDBaSSSwkR?usp=sharing  
 
 ---
 
