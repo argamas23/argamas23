@@ -18,8 +18,8 @@ I love building:
 
 ## 🔗 Connect with Me  
 <p>
-<a href="https://www.linkedin.com/in/samagra-bharti"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="mailto:samagra.bharti@research.iiit.ac.in"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://www.linkedin.com/in/samagra-bharti-bb02b5282"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="mailto:samagrabharti@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 <a href="https://highlandhistories.org"><img src="https://skillicons.dev/icons?i=react" height="40"/></a>
 </p>
 
