@@ -94,11 +94,18 @@ Machine learning pipeline on multi-sensor satellite imagery (Sentinel-2, LISS-4,
 - Automated Google Earth Engine workflow  
 - Applications in geospatial monitoring  
 
-🔗 **Project Repo:**  
-https://github.com/argamas23/Megathon-24  
-
 📁 **Google Drive Code & Data:**  
 👉 https://drive.google.com/drive/folders/1-qF-klsefbefq0WDw6bdXZcDBaSSSwkR?usp=sharing  
+
+---
+
+### 🔹 **Megathon 2024 Project — Cyclone Prediction System**  
+Finalist at Hyderabad's largest hackathon.  
+Developed a **cyclone intensity prediction model** for the Indian Peninsula using:  
+- Google Earth Engine (GEE)  
+- Remote sensing features from multi-satellite inputs  
+- ML-based hazard estimation  
+🔗 https://github.com/argamas23/Megathon-24  
 
 ---
 
