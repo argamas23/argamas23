@@ -18,7 +18,7 @@ I love building:
 
 ## 📄 My Résumé  
 📘 **Download My Latest CV (PDF)**  
-👉 https://github.com/argamas23/argamas23/blob/main/SAMAGRA_BHARTI_2022115007_2025.pdf
+👉 [SAMAGRA_BHARTI_2022115007.pdf](SAMAGRA_BHARTI_2022115007.pdf)
 
 ---
 
@@ -75,14 +75,6 @@ A historical research website deployed on AWS for the **Mapping the Himalayas** 
 - Uses RoBERTa encoder + Tree-Structured decoder  
 - Multi-step reasoning over symbolic math  
 🔗 https://github.com/argamas23/Math-Word-Problems
-
----
-
-### 🔹 **Pixel-Based Land Classification** — *Remote Sensing, ML, GEE*  
-- Used RF, SVM, CART, XGBoost on multi-sensor imagery  
-- Built weighted ensemble pipelines in **Google Earth Engine**  
-- Applications in geospatial monitoring  
-🔗 https://github.com/argamas23/Megathon-24
 
 ---
 
